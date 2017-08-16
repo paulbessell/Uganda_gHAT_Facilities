@@ -1,0 +1,234 @@
+"Facility_name","District","Latitude","Longitude","Ownership","Medical_Doctor","Clinical_Officer","Nurses_nurseAssist","Lab_tech","Lab_assist","Microscopist","Elec_micro","Nat_micro","Centrifuge","Microscope_slides","Capillary_Tubes","Fields_Giemsa","CATT","SS_Treat","Dist_km_toTreat","Name_treat","Energy_source","Water_source","Role","Active2014","Active.2015","RDT_used_14","RDT_pos_14","RDT_used_15","RDT_pos_15"
+"Abiriamajo HCII","Yumbe",3.38005,31.29646,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",10,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",28,0,14,0
+"Adjugopi HCII","Adjumani",3.44563,31.91107,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Adjumani Hospital","Adjumani",3.374,31.79245,"Government",4,6,60,1,2,0,"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",0,"Adjumani Hosp","Thermal Generator","Bore hole","LED","Yes","Yes",158,13,196,4
+"Adjumani Mission HCIII","Adjumani",3.37684,31.78165,"Private",0,1,4,0,1,0,"Yes","Yes","No","Yes","Yes","No","No","No",1,"Adjumani Hosp","Solar","Piped water","RDT","Yes","No",8,0,0,0
+"Adjumani Police Clinic","Adjumani",3.3745671,31.7829675,"",,,,,,,"","","","","","","","",,"","","","","Yes","No",1,0,0,0
+"Adjumani Prison","Adjumani",3.31764,31.75143,"",,,,,,,"","","","","","","","",,"","","","","Yes","No",0,0,0,0
+"Adumi HCIV","Arua",3.04145,30.83332,"Government",1,3,10,1,1,1,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",72,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",31,0,0,0
+"Afoji HCII","Moyo",3.69804,31.68385,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",6,"Moyo Hospital","Solar","Bore hole","RDT","Yes","Yes",1,0,10,0
+"Agojo HCII","Adjumani",3.42434,31.72344,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",22,"Adjumani Hosp","No electricity","Bore hole","RDT","Yes","No",22,0,0,0
+"Ajeri HCII","Adjumani",3.17323,31.7608,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",40,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",12,0,0,0
+"Ajia HCIII","Arua",2.91913,31.02721,"Government",0,1,7,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",110,"Omugo HCIV","Solar","river/lake/well","RDT","Yes","No",54,0,0,0
+"Ajikoro HCII","Maracha",3.33926,30.91491,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",35,"Omugo HCIV","No electricity","river/lake/well","RDT","Yes","Yes",41,0,1,0
+"Akino HCII","Arua",2.7341,31.18708,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",160,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",7,0,0,0
+"Alere HCII","Adjumani",3.46013,31.7577,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",12,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","Yes",7,0,25,0
+"Aliapi HCII","Yumbe",3.42585,31.25574,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",4,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",111,0,66,0
+"Aliba HCIII","Moyo",3.19372,31.52649,"Government",0,1,4,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",80,"Moyo Hosp","Solar","Bore hole","LED","Yes","Yes",86,1,92,3
+"Aliwara HCII","Adjumani",3.15799,31.82297,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",68,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",11,0,0,0
+"Alnoor HCII","Yumbe",3.5355,31.255,"PNFP",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",8,"Yumbe Hopsital","Solar","Bore hole","RDT","Yes","Yes",27,1,20,0
+"Ambelecu HCII","Yumbe",3.36673,31.18753,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",16,"Yumbe Hosp","No electricity","Bore hole","RDT","Yes","Yes",73,0,68,0
+"Amuru HCII","Amuru",2.81976,31.92298,"Government",0,1,1,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","No electricity","Bore hole","RDT","Yes","No",21,0,0,0
+"Andelizo HCII","Arua",3.15839,31.11036,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",15,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",306,2,116,1
+"Anyavu HCII","Arua",2.6775,30.86051,"Private",0,0,4,0,1,0,"No","Yes","No","Yes","Yes","Yes","No","No",80,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",15,0,0,0
+"Anyiribu HCII","Arua",2.56272,31.11361,"Government",0,0,2,0,1,0,"No","Yes","Yes","Yes","Yes","No","No","No",149,"Omugo HCIV","Solar","river/lake/well","RDT","Yes","No",12,0,0,0
+"Apaa HCII","Amuru",2.97085,31.97585,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",50,"Adjumani Hospital","No electricity","river/lake/well","RDT","Yes","No",58,0,0,0
+"Apo HCII","Yumbe",3.50093,31.26856,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",10,"Yumbe Hosp","Solar","Piped water","RDT","Yes","Yes",38,0,54,0
+"Arafa Domicillary MHC","Yumbe",3.45835,31.24143333,"Private",0,0,2,0,0,1,"No","Yes","No","Yes","No","No","No","No",8,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,2,0
+"Arinyapi HCII","Adjumani",3.47113,32.00804,"Government",0,0,3,0,0,0,"No","Yes","No","Yes","No","Yes","No","No",32,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Aripea HCIII","Arua",3.17306,31.04076,"Private",0,0,5,0,1,0,"No","Yes","Yes","Yes","No","Yes","No","No",15,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",65,5,83,6
+"Ariwa HCIII","Yumbe",3.24274,31.39522,"Government",0,0,5,0,1,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",30,"Yumbe Hopsital","Solar","Rain water","RDT","Yes","Yes",23,0,25,0
+"Aroi HCIII","Arua",3.11364,30.89712,"Government",0,1,7,1,0,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",47,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",33,0,0,0
+"Arra-Omi HCII","Adjumani",3.52264,31.80194,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",16,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",1,0,0,0
+"Arra-Pakarukwe HCII","Moyo",3.6139,31.91048,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",40,"Moyo Hosp","No electricity","Piped water","RDT","Yes","Yes",7,0,57,0
+"Arua Regional Hospital","Arua",3.02286,30.91204,"Government",,,,,,,"","","","Yes","","","No","No",,"","","","LED","Yes","Yes",51,4,47,0
+"Atiak HCIV","Amuru",3.261464,32.122844,"Government",0,6,8,1,1,0,"Yes","Yes","Yes","Yes","No","Yes","No","No",49,"Adjumani Hosp","Solar","Rain water","LED","Yes","Yes",37,4,34,0
+"Awer HCII","Amuru",2.83985,32.1749,"Government",0,1,8,0,0,0,"No","No","No","No","No","No","No","No",50,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",12,0,0,0
+"Aya HCII","Moyo",3.67363,31.8273,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",20,"Moyo Hosp","Solar","river/lake/well","RDT","Yes","Yes",35,0,11,0
+"Ayilo HCII","Adjumani",3.235603333,31.86927667,"Private",1,4,19,1,1,1,"Yes","No","No","Yes","No","Yes","No","No",34,"Adjumani Hospital","Solar","Piped water","RDT","No","Yes",0,0,0,0
+"Ayipe HCIII","Koboko",3.55452,30.92069,"Government",0,1,2,0,0,0,"No","No","No","No","No","No","No","No",51,"Omugo HCIV","No electricity","Rain water","RDT","Yes","Yes",253,1,34,1
+"Ayiri HCII","Adjumani",3.25227,31.58364333,"Private",0,2,6,0,2,0,"No","Yes","No","Yes","No","Yes","No","No",24,"Adjumani Hospital","No electricity","Piped water","RDT","No","Yes",0,0,0,0
+"Ayivuni HCII","Arua",3.09984,30.82594,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",60,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",10,1,0,0
+"Bamure HCII","Koboko",3.49307,31.0777,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",23,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",199,5,124,7
+"Barakala HCII","Yumbe",3.4897,31.33885,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",12,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",31,0,20,0
+"Belameling HCII","Moyo",3.47612,31.61131,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",15,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",32,0,18,0
+"Besia HCII","Moyo",3.64888,31.71814,"Government",0,1,4,0,0,0,"No","No","No","No","No","No","No","No",1,"Moyo Hosp","No electricity","Bore hole","RDT","Yes","Yes",20,0,49,2
+"Bibia HCIII","Amuru",3.47246,32.06737,"Government",0,1,11,1,1,0,"Yes","No","No","Yes","Yes","Yes","No","No",30,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","Yes",21,0,12,0
+"Bileafe HCIII","Arua",3.10622,31.08472,"Government",0,0,2,0,0,1,"No","Yes","No","Yes","Yes","Yes","No","No",15,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",123,5,47,5
+"Bira HCII","Amuru",3.06495,32.10827,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Birra HCII","Adjumani",3.31557,31.87196,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15.4,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",23,0,25,0
+"Bondo HCIII","Arua",2.83095,30.99598,"Government",0,1,5,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",118,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","No",50,1,0,0
+"Carlos Medical Centre","Koboko",3.406916667,30.95646667,"Private",1,2,7,1,1,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Thermal Generator","Piped water","RDT","No","Yes",0,0,18,4
+"Chakulia HCII","Koboko",3.35504,31.03358,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",80,"Omugo Health centre","Solar","Bore hole","RDT","Yes","Yes",99,3,84,2
+"Ciforo HCIII","Adjumani",3.35613,31.7112,"Government",0,2,8,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",9,"Adjumani Hosp","Solar","Piped water","RDT","Yes","No",5,0,0,0
+"Cilio HCIII","Arua",3.19758,31.03118,"Government",0,1,4,0,1,0,"Yes","Yes","No","Yes","No","Yes","No","No",10,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",44,0,27,0
+"Cohwe HCII","Moyo",3.58684,31.61469,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",20,"Moyo Hospital","Solar","Bore hole","RDT","Yes","Yes",17,0,8,0
+"Curube HCII","Maracha",3.125166667,30.92078333,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",60,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",75,2,9,2
+"Dramba HCII","Yumbe",3.3205,31.08864,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",20,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",45,3,95,6
+"Dranya HCIII","Koboko",3.3674,30.95931,"Government",0,1,3,0,0,0,"No","No","No","No","No","No","No","No",39,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",105,15,54,0
+"Dricile HCIII","Koboko",3.47018,30.97894,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",40,"Omugo HCIV","No electricity","river/lake/well","RDT","Yes","Yes",101,0,49,0
+"Dufile HCIII","Moyo",3.56893,31.92435,"Government",0,1,4,0,1,0,"No","Yes","Yes","Yes","Yes","No","No","No",40,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",41,0,3,0
+"Dzaipi HCIII","Adjumani",3.39322,31.9552,"Government",0,1,7,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",15,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",9,0,0,0
+"Ediofe HCIII","Arua",3.01559,30.89648,"Government",0,1,4,1,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",69,"Omugo HCIV","Solar","Piped water","RDT","Yes","No",26,0,0,0
+"Elegu HCII","Adjumani",3.51087,32.00999,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",40,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",6,0,0,0
+"Elema HCII","Adjumani",3.47763,31.90047,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","Yes",0,0,0,0
+"Eliofe HCIII","Maracha",3.15024,30.84101,"Government",0,1,7,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",35,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",65,1,67,2
+"Eremi HCII","Moyo",3.64576,31.81175,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",15,"Moyo Hosp","Solar","river/lake/well","RDT","Yes","Yes",84,1,43,0
+"Eria HCIII","Moyo",3.63128,31.6566,"Government",0,1,4,0,1,0,"Yes","Yes","Yes","Yes","No","Yes","No","No",5,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",24,0,11,0
+"Ewanga HCIII","Arua",3.17724,31.46479,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",55,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",83,0,42,0
+"Fr Bilibao HCIII","Moyo",3.67184,31.78927,"PNFP",0,0,3,0,1,0,"No","Yes","No","Yes","No","No","No","No",8,"Moyo Hospital","Solar","Piped water","RDT","Yes","Yes",32,0,1,0
+"Friends Clinic","Koboko",3.406366667,30.95491667,"Private",0,1,1,0,2,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Solar","Bore hole","RDT","No","Yes",0,0,7,0
+"Gbalala HCII","Moyo",3.55631,31.77739,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",30,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",11,0,8,0
+"Gbari HCII","Moyo",3.77917,31.80772,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",25,"Moyo Hospital","Solar","Bore hole","RDT","Yes","Yes",24,0,26,0
+"Gborokolongo HCII","Koboko",3.42909,31.06409,"Private",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",20,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",203,14,57,5
+"Gbukulu-Atuni HCII","Arua",3.00472,31.2215,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",60,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",23,0,29,0
+"Goboro HCII","Yumbe",3.63454,31.45103,"Govt",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",18,"Yumbe Hospital","No electricity","Bore hole","RDT","No","Yes",0,0,97,1
+"Goopi HCII","Moyo",3.69784,31.77137,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",12,"Moyo Hospital","Solar","Piped water","RDT","Yes","Yes",22,0,18,0
+"Guru Guru HCII","Amuru",2.91044,32.07896,"Government",0,0,3,0,0,0,"No","","No","No","No","No","No","No",55,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",17,0,0,0
+"Gwere HCII","Moyo",3.58437,31.55608,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",22,"Moyo Hospital","Solar","Bore hole","RDT","Yes","Yes",18,0,19,0
+"Ibakwe HCII","Moyo",3.5211,31.65511,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",30,"Moyo Hosp","No electricity","Bore hole","RDT","Yes","Yes",53,0,77,0
+"Iboa HCII","Moyo",3.53986,31.74123,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",32,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",13,0,8,0
+"Imvepi HCII","Arua",3.23418,31.28175,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",20,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",18,0,5,0
+"Inde HCIII","Arua",2.88227,31.2134,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",74,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",68,0,47,2
+"Indilinga HCII","Moyo",3.22009,31.53118,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",76,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",9,0,10,0
+"Itia HCII","Arua",3.17313,30.97626,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",20,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",142,1,67,0
+"Itula HCIII","Moyo",3.40639,31.60997,"Government",0,0,5,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",52,"Moyo Hosp","Solar","Bore hole","LED","Yes","Yes",52,2,96,0
+"Jenggari HCII","Amuru",2.94657,32.13797,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",33,0,0,0
+"Kaladima HCIII","Amuru",2.8224,32.13915,"Government",0,2,4,1,1,0,"","No","Yes","Yes","Yes","Yes","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",12,0,0,0
+"Kali HCII","Moyo",3.47112,31.567,"Private",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",25,"Moyo Hosp","No electricity","Bore hole","RDT","Yes","Yes",9,0,4,0
+"Kamaka HCIII","Maracha",3.24706,30.85901,"Government",0,1,8,0,1,0,"No","No","No","No","No","No","No","No",30,"Omugo HCIV","Solar","river/lake/well","RDT","Yes","Yes",63,5,44,0
+"Katiyi HCIII","Arua",2.759,31.06525,"Private",0,0,3,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",122,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",54,0,0,0
+"Kei HCIII","Yumbe",3.61453,31.11819,"Private",0,1,5,0,1,0,"Yes","Yes","No","Yes","No","Yes","No","No",25,"Yumbe Hosp","Solar","river/lake/well","RDT","Yes","Yes",62,3,11,0
+"Kerwa HCII","Yumbe",3.68339,31.29181,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",12,"Midigo H/C IV","No electricity","Bore hole","RDT","Yes","Yes",120,3,78,4
+"Kijomoro HCIII","Maracha",3.17017,30.91149,"Government",0,1,9,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",25,"Omugo HCIV","Solar","Rain water","RDT","Yes","Yes",218,8,34,0
+"Koboko HCIV","Koboko",3.40942,30.95937,"Government",2,2,13,1,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",35,"Omugo HCIV","Solar","Bore hole","LED","Yes","Yes",106,2,105,5
+"Koboko Imaging Centre","Koboko",3.406583333,30.95646667,"Private",0,1,3,1,0,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Solar","Piped water","RDT","No","Yes",0,0,9,0
+"Koboko Medical Centre","Koboko",3.408866667,30.95505,"Private",1,1,3,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Solar","Piped water","RDT","No","Yes",0,0,15,1
+"Koboko Mission HCIII","Koboko",3.42035,30.95522,"Private",0,0,4,0,0,1,"No","Yes","No","Yes","No","Yes","No","No",35,"Omugo HCIV","Solar","Rain water","RDT","Yes","Yes",41,2,53,1
+"Kochi HCIII","Yumbe",3.56332,31.44347,"Government",0,0,4,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",26,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",47,0,172,27
+"Kulikulinga HCIII","Yumbe",3.34393,31.24693,"Government",0,0,9,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",6,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",51,1,79,4
+"Kuluba HCII","Koboko",3.50594,30.94196,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",43,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",77,1,43,1
+"Kuluva Hospital","Arua",2.94981,30.93375,"Private",,,,,,,"","","","","","","No","No",,"","","","RDT","Yes","No",6,0,0,0
+"Kureku HCII","Adjumani",3.30862,31.80161,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",7,"Adjumani Hosp","No electricity","Rain water","RDT","Yes","No",1,0,0,0
+"Kuru Medical Clinic","Yumbe",3.4372,31.18425,"Private",0,0,1,0,1,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",0.5,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,2,0
+"Kweyo HCII","Moyo",3.71113,31.73701,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15,"Moyo Hospital","Solar","Rain water","RDT","Yes","Yes",3,0,17,0
+"Labongogali HCIII","Amuru",2.81496,32.01852,"Government",0,1,8,1,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",19,0,0,0
+"Lama HCII","Moyo",3.61347,31.74693,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",5,"Moyo Hosp","Solar","Piped water","RDT","Yes","Yes",20,0,24,0
+"Laropi HCIII","Moyo",3.57472,31.83074,"Government",0,2,5,1,0,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",24,"Moyo Hosp","Solar","Bore hole","LED","Yes","Yes",49,6,32,0
+"Lazebu HCII","Arua",2.72912,30.92861,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",80,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",13,0,0,0
+"Lefori HCIII","Moyo",3.58468,31.58361,"Government",0,1,3,0,0,1,"Yes","Yes","Yes","Yes","No","Yes","No","No",20,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",12,0,4,0
+"Lewa HCII","Adjumani",3.29406,31.90513,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",16,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",1,0,0,0
+"Liwa HCII","Moyo",3.25326,31.49298,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",72,"Moyo Hosp","No electricity","river/lake/well","RDT","Yes","Yes",22,0,54,0
+"Lobe HCII","Yumbe",3.5648,31.12481,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",14,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",67,1,35,0
+"Lobule HCIII","Koboko",3.389,31.02399,"Government",0,1,3,0,0,1,"Yes","Yes","No","Yes","No","Yes","No","No",32,"Omugo HCIV","Solar","Rain water","RDT","Yes","Yes",199,6,54,3
+"Locomgbo HCII","Yumbe",3.48476,31.44421,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",24,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",31,0,10,0
+"Lodonga HCIII","Yumbe",3.40209,31.12783,"Private",0,1,7,0,2,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",8,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",39,0,28,3
+"Logiri HCIII","Arua",2.73525,30.85292,"Government",0,1,7,0,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",80,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",47,0,0,0
+"Logoba HCII","Moyo",3.68436,31.70032,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",4,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",43,0,64,0
+"Lomunga HCII","Moyo",3.3536,31.55855,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",40,"Moyo Hosp","Solar","river/lake/well","RDT","Yes","Yes",23,0,30,0
+"Lopke HCII","Yumbe",3.55217,31.54729,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",29,"Yumbe Hosp","No electricity","Bore hole","RDT","Yes","Yes",75,1,42,1
+"Loyinya HCII","Maracha",3.29223,30.97997,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",30,"Omugo HCIV","No electricity","Rain water","RDT","Yes","Yes",68,2,1,0
+"Ludara HCIII","Koboko",3.51913,31.00209,"Government",0,1,7,0,1,0,"Yes","Yes","No","Yes","No","Yes","No","No",55,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",188,13,168,2
+"Lurujo HCII","Koboko",3.35821,31.01296,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",20,"Omugo HCIV","Solar","Rain water","RDT","Yes","Yes",192,6,60,1
+"Maaji A HCII","Adjumani",3.26476,31.61464,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",40,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",0,0,0,0
+"Maaji B HCII","Adjumani",3.24738,31.65421,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",30,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",5,0,0,0
+"Maduga HCII","Moyo",3.27788,31.55155,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",50,"Moyo Hosp","No electricity","Bore hole","RDT","Yes","Yes",3,0,9,0
+"Magburu HCII","Adjumani",3.3722,31.67626,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",7,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Maracha Hospital","Maracha",3.23994,30.92144,"Private",2,1,7,1,4,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",20,"Omugo HCIV","Solar","Piped water","LED","Yes","Yes",9,2,0,2
+"Marryland HCIII","Adjumani",3.36518,31.81995,"Private",0,0,4,0,2,0,"Yes","Yes","No","Yes","Yes","No","No","No",3,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",0,0,0,0
+"Masjid Noor HCII","Arua",3.03937,30.91352,"Private",0,0,5,1,0,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",43,"Omugo HCIV","No electricity","Piped water","RDT","Yes","No",1,0,0,0
+"Matuma HCIII","Yumbe",3.52092,31.10555,"Government",0,0,5,0,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",22,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",26,3,5,3
+"Metu HCIII","Moyo",3.66811,31.79172,"Government",0,1,6,0,2,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",15,"Moyo Hosp","Solar","Piped water","RDT","Yes","Yes",53,4,78,0
+"Midigo HCIV","Yumbe",3.6101,31.23369,"Government",2,4,8,1,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","Yes","No",30,"Yumbe Hosp","Solar","Piped water","LED","Yes","Yes",97,4,36,0
+"Midigo Medical Centre","Yumbe",3.6031,31.22665,"Private",1,0,1,0,1,0,"No","Yes","No","Yes","Yes","Yes","No","No",24,"Yumbe Hospital","No electricity","Piped water","RDT","No","Yes",0,0,20,0
+"Mocha HCII","Yumbe",3.5733,31.22569,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15,"Yumbe Hopsital","No electricity","Rain water","RDT","Yes","Yes",41,0,3,0
+"Mongoyo HCII","Yumbe",3.3466,31.126,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",18,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",101,1,89,6
+"Morobo Clinic","Koboko",3.416966667,30.95603333,"Private",0,1,1,0,1,0,"Yes","No","Yes","Yes","No","Yes","No","No",45,"Omugo HCIV","Solar","Piped Water","RDT","No","Yes",0,0,10,0
+"Moyo Hospital","Moyo",3.65781,31.728,"Government",4,7,72,3,3,2,"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",0,"Moyo Hosp","Thermal Generator","Piped water","LAMP & LED","Yes","Yes",122,7,108,5
+"Moyo Mission HCIII","Moyo",3.65718,31.71343,"Private",0,0,3,0,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",1,"Moyo Hosp","Thermal Generator","Bore hole","RDT","Yes","Yes",3,0,6,0
+"Mungula HCIV","Adjumani",3.18992,31.79483,"Government",0,1,10,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",26,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","Yes",12,0,68,0
+"Munu HCII","Moyo",3.56045,31.58325,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",20,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",19,0,6,0
+"Mutema HCII","Amuru",2.88145,31.8732,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","No electricity","Rain water","RDT","Yes","No",18,0,0,0
+"New Life Medical Centre","Yumbe",3.4586,31.24201667,"Private",1,2,5,0,2,0,"No","Yes","No","Yes","No","Yes","No","No",8,"Yumbe Hospital","No electricity","Piped water","RDT","No","Yes",0,0,7,0
+"Nicu HCII","Arua",3.05058,31.13027,"Government",0,0,,0,0,0,"No","No","No","No","No","No","No","No",36,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",57,0,21,2
+"Nyadri HCIII","Maracha",3.21576,30.94922,"Government",0,1,7,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",19,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",146,13,71,2
+"Nyumanzi HCII","Adjumani",3.4537,31.94598,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",32,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","Yes",0,0,25,0
+"Oberabic HCII","Amuru",2.91478,31.96658,"Private",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",23,0,0,0
+"Obilokongo HCII","Adjumani",3.26473,31.72797,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",17,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",7,0,0,0
+"Obofia HCII","Arua",3.20149,31.08518,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",8,"Omugo HCIV","No electricity","Rain water","RDT","Yes","Yes",85,3,31,0
+"Obongi HCIV","Moyo",3.2414,31.55158,"Government",0,3,14,0,0,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",70,"Moyo Hosp","Thermal Generator","Bore hole","RDT","Yes","Yes",54,0,73,0
+"Ocea HCII","Arua",3.07661,31.28221,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",22,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",305,9,40,0
+"Odokonyero HCII","Amuru",2.97243,32.10604,"Government",,,,,,,"","","","","","","","",,"","","","RDT","Yes","No",12,0,0,0
+"Odraka HCII","Arua",2.83285,31.12135,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",73,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",6,0,2,0
+"Oduobo HCII","Arua",3.1321,31.34723,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",27,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",113,0,45,0
+"Odupi HCIII","Arua",3.29692,31.17591,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",5,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",50,1,11,0
+"Offaka HCIII","Arua",2.63948,31.02975,"Government",0,2,8,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",120,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",24,0,0,0
+"Ofua HCIII","Adjumani",3.25568,31.78586,"Government",0,2,7,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",10,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",4,0,0,0
+"Ogoko HCII","Arua",2.91732,31.33348,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",50,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",101,0,129,0
+"Ogolo HCII","Adjumani",3.55195,31.98482,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",42,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",3,0,0,0
+"Ogua HCII","Arua",3.14133,31.02365,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",25,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",18,0,6,0
+"Ojee mission HCIII","Arua",3.01784,30.89833,"PNFP",0,1,6,0,2,0,"Yes","No","Yes","Yes","No","No","No","No",48,"Omugo Health centre","Hydro_electric","Piped water","RDT","Yes","No",19,0,0,0
+"Okidi HCII","Amuru",3.26688,32.22371,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",28,0,0,0
+"Okollo HCII","Arua",2.65821,31.1474,"Government",0,1,6,0,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",90,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",75,0,0,0
+"Okunggedi HCII","Amuru",2.87785,31.93951,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",21,0,0,0
+"Okusijoni HCIII","Adjumani",3.28164,31.68379,"Government",0,1,3,0,1,0,"No","Yes","No","Yes","Yes","No","No","No",36,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",20,1,0,0
+"Okuyo HCII","Yumbe",3.30896,31.33227,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",28,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",40,0,2,0
+"Oleba HCIII","Maracha",3.30081,30.92827,"Government",0,0,9,0,1,1,"No","Yes","No","Yes","Yes","Yes","No","No",18,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",30,0,27,0
+"Oli HCIV","Arua",3.03331,30.90711,"Government",1,3,22,1,1,1,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",55,"Omugo HCIV","Solar","Piped water","RDT","Yes","No",21,0,0,0
+"Olia HCII","Adjumani",3.36454,31.90636,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",7,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",9,0,0,0
+"Olinga HCII","Amuru",3.0669193,32.0428422,"Government",,,,,,,"","","","","","","","",,"","","","RDT","Yes","No",15,0,0,0
+"Olujobo HCIII","Arua",3.07374,31.40556,"Government",0,0,4,0,1,0,"Yes","Yes","No","Yes","No","Yes","No","No",40,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",153,3,58,0
+"Oluko Italia Solidale HCII","Arua",3.01761,30.97743,"Private",0,0,2,0,1,0,"No","Yes","No","Yes","Yes","Yes","No","No",53,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",22,0,0,0
+"Oluvu HCIII","Maracha",3.19998,30.87409,"Government",0,1,7,0,1,0,"No","Yes","No","Yes","Yes","No","No","No",40,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",102,0,15,0
+"Olwal HCIII","Amuru",2.83763,32.07909,"Government",0,2,6,0,1,0,"No","Yes","No","No","No","No","No","No",,"Adjumani Hospital","No electricity","Bore hole","RDT","Yes","No",17,0,0,0
+"Ombidri Ondrea HCIII","Arua",3.0714,30.96583,"Government",0,0,6,0,0,0,"No","No","No","No","No","No","No","No",35,"Omugo HCIV","No electricity","Rain water","RDT","Yes","No",21,0,0,0
+"Omugo HCIV","Arua",3.27945,31.11511,"Government",0,2,14,0,2,1,"Yes","Yes","Yes","No","Yes","Yes","Yes","Yes",0,"Omugo HCIV","Solar","Bore hole","LAMP & LED","Yes","Yes",248,20,156,15
+"Opejo HCII","Adjumani",3.43159,31.68416,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",15,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",8,0,0,0
+"Openzizi HCIII","Adjumani",3.33542,31.75143,"Government",0,2,6,0,1,0,"No","Yes","Yes","Yes","Yes","Yes","No","No",8,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",10,0,0,0
+"Opia HCIII","Arua",2.82491,30.90172,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",65,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",1,0,0,0
+"Opiro HCII","Moyo",3.67057,31.74094,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",1,"Moyo Hospital","Solar","Bore hole","RDT","Yes","Yes",15,0,11,0
+"Oraba HCII","Koboko",3.5358,30.8893,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",53,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",150,0,22,0
+"Ori HCII","Moyo",3.63601,31.79071,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",5,"Moyo Hosp","Solar","Piped water","RDT","Yes","Yes",65,0,22,0
+"Oriajin Hospital","Arua",3.10012,30.96805,"Private",1,4,15,0,3,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",22,"Omugo HCIV","Hydro_electric","Piped water","RDT","Yes","Yes",1,0,0,0
+"Orivu HCII","Arua",3.03034,30.98574,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",55,"Omugo HCIV","Solar","Bore hole","RDT","Yes","No",3,0,0,0
+"Otici HCII","Amuru",2.95285,32.01303,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","No electricity","Bore hole","RDT","Yes","No",18,0,0,0
+"Otong HCII","Amuru",3.01741,32.19579,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",0,0,0,0
+"Otumbari HCIII","Arua",3.342222222,31.21218056,"PNFP",0,0,3,0,0,1,"No","Yes","No","Yes","No","No","No","No",5,"Omugo Health centre","Solar","Bore hole","RDT","Yes","Yes",12,0,1,0
+"Otwee HCIII","Amuru",2.80575,31.85955,"Government",0,3,7,0,1,0,"Yes","No","No","Yes","No","Yes","No","No",100,"Adjumani Hospital","Solar","Rain water","RDT","Yes","No",15,1,0,0
+"Ovujo HCIII","Maracha",3.23111,30.91199,"Government",0,1,6,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",21,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",84,4,42,1
+"Oyima HCIII","Arua",2.68622,31.2479,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",140,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",10,0,0,0
+"Pabbo HCIII","Amuru",2.99938,32.14157,"Government",0,2,11,1,1,0,"Yes","No","No","Yes","Yes","Yes","No","No",58,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",17,1,0,0
+"Pabbo Lacor HCIII","Amuru",3.00804,32.1447,"Private",0,1,12,0,1,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",33,0,0,0
+"Pacara HCII","Adjumani",3.45216,31.79634,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",8,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",0,0,0,0
+"Pacilo HCII","Amuru",3.1916,32.20622,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",41,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",18,0,0,0
+"Pajama HCII","Yumbe",3.3171,31.05569,"Govt",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",25,"Yumbe Hospital","No electricity","Bore hole","RDT","No","Yes",0,0,0,0
+"Pajulu HCIII","Arua",3.00032,30.8713,"Government",0,0,5,0,0,0,"No","No","No","No","No","No","No","No",96,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",29,0,0,0
+"Pakele HCIII","Adjumani",3.35692,31.85509,"Government",0,2,4,0,1,0,"Yes","Yes","Yes","Yes","No","Yes","No","No",4,"Adjumani Hosp","Thermal Generator","Bore hole","RDT","Yes","No",7,0,0,0
+"Palorinya HCIII","Moyo",3.48494,31.65511,"Government",0,0,3,0,1,0,"No","Yes","No","Yes","No","Yes","No","No",25,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",75,0,118,0
+"Palukere HCII","Amuru",3.16526,32.15936,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",42,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",18,0,0,0
+"Pamodo HCII","Koboko",3.58567,31.01202,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",25,"Yumbe Hosp","No electricity","Bore hole","RDT","Yes","Yes",235,6,49,0
+"Panjaala HCII","Moyo",3.5668,31.95044,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",38,"Moyo Hosp","No electricity","Bore hole","RDT","Yes","Yes",0,0,8,0
+"Panyanga HCII","Moyo",3.56936,31.8872,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",30,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",15,0,6,0
+"Parabong HCII","Amuru",2.90643,32.15267,"Government",0,0,4,0,0,0,"","No","No","No","No","No","No","No",,"Adjumani Hospital","No electricity","Bore hole","RDT","Yes","No",12,0,0,0
+"Pawel HCIII","Amuru",3.09431,32.15764,"Government",0,2,7,0,2,0,"Yes","No","No","Yes","Yes","Yes","No","No",53,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",8,0,0,0
+"Pawor HCII","Arua",2.79519,31.33793,"Government",0,0,4,0,0,0,"No","No","No","No","No","No","No","No",80,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",12,0,12,2
+"Pearl Clinic","Yumbe",3.467216667,31.24088333,"Private",1,0,4,0,2,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",8,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,16,1
+"Pioneer Clinic","Koboko",3.406366667,30.95633333,"Private",1,0,2,0,1,0,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Solar","Bore hole","RDT","No","Yes",0,0,11,0
+"Pioneer Medical Centre","Yumbe",3.467283333,31.24115,"Private",1,2,1,0,2,0,"Yes","No","Yes","Yes","Yes","No","No","No",8,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,0,1
+"Pogo HCIII","Amuru",3.20387,32.04578,"Government",0,2,4,0,1,0,"No","Yes","No","Yes","No","Yes","No","No",42,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Ramogi HCII","Moyo",3.64596,31.74861,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",3,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",37,0,13,0
+"Rhema Clinic","Koboko",3.407133333,30.95485,"Private",2,2,4,1,1,0,"Yes","No","Yes","Yes","Yes","Yes","No","No",45,"Omugo HCIV","Hydro_electric","piped water","RDT","No","Yes",0,0,18,0
+"Rhino camp HCIV","Arua",2.9761,31.39745,"Government",1,2,15,1,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",80,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",121,0,25,0
+"Riki HCIII","Arua",3.02219,31.03641,"Government",0,0,2,0,1,0,"No","No","No","Yes","Yes","Yes","No","No",18,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","No",10,0,0,0
+"Robidire HCIII","Adjumani",3.44044,31.75258,"Private",0,0,5,0,1,0,"Yes","Yes","Yes","Yes","Yes","No","No","No",10,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",7,0,0,0
+"Siripi HCIII","Arua",3.1619,31.27238,"Government",0,0,3,0,1,0,"No","Yes","No","Yes","No","Yes","No","No",32,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",42,0,80,1
+"St. Asumpta Mission HCIII","Arua",,,"Mission",,,,,,,"","","","","","","","",,"","","","","Yes","No",39,0,0,0
+"St. Francis Ocodri HCIII","Arua",3.0741,31.06687,"Private",0,0,5,0,0,2,"Yes","Yes","No","Yes","No","Yes","No","No",50,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",60,1,23,0
+"Tara HCIII","Maracha",3.31278,31.03359,"Government",0,1,7,0,1,0,"No","No","No","No","No","No","No","No",6,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",46,0,10,0
+"Triangle Polyclinic","Koboko",3.4082,30.94246667,"Private",,,,,,,"","","","","","","","",,"","","","RDT","No","Yes",0,0,0,0
+"Tuku HCII","Arua",3.10862,31.02747,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",40,"Omugo HCIV","No electricity","Bore hole","RDT","Yes","Yes",36,0,13,0
+"Tuliki HCII","Yumbe",3.51964,31.18796,"Govt",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",20,"Yumbe Hospital","No electricity","Bore hole","RDT","No","Yes",0,0,20,0
+"Uderu HCII","Adjumani",3.41156,31.80375,"Government",0,0,3,0,0,0,"No","No","No","No","No","No","No","No",15,"Adjumani Hosp","Solar","Bore hole","RDT","Yes","No",2,0,0,0
+"Uleppi Mission HCII","Arua",2.78918,31.0309,"Private",0,0,,,,,"Yes","Yes","Yes","Yes","Yes","Yes","No","No",120,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",47,0,0,0
+"Umoja Clinic","Yumbe",3.458766667,31.24141667,"Private",1,2,4,0,2,0,"Yes","No","No","Yes","Yes","Yes","No","No",8,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,4,1
+"Vurra HCIII","Arua",2.91031,30.88166,"Government",0,1,6,0,0,0,"No","No","No","No","No","No","No","No",65,"Omugo HCIV","Solar","Rain water","RDT","Yes","No",12,0,0,0
+"Wadra HCIII","Maracha",3.26021,31.0078,"Government",0,1,5,0,1,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",8,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",93,5,67,0
+"Waka HCII","Moyo",3.40713,31.50772,"Government",0,0,2,0,0,0,"No","No","No","No","No","No","No","No",60,"Moyo Hosp","Solar","Bore hole","RDT","Yes","Yes",9,0,28,0
+"Wandi HCIII","Arua",3.10997,30.99093,"Government",0,1,7,0,0,1,"Yes","Yes","No","Yes","Yes","Yes","No","No",30,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",89,7,62,7
+"Yinga HCIII","Arua",3.26063,31.24197,"Government",0,0,4,0,0,0,"No","Yes","No","Yes","No","Yes","No","No",10,"Omugo HCIV","Solar","Bore hole","RDT","Yes","Yes",69,2,50,3
+"Yivu Abea HCII","Maracha",3.24096,30.97582,"PNFP",0,1,6,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",20,"Omugo Health centre","Solar","Rain water","RDT","Yes","Yes",119,17,58,2
+"Yoyo HCIII","Yumbe",3.38845,31.36189,"",0,0,5,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",20,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",39,0,22,0
+"Yumbe General Clinic","Yumbe",3.459416667,31.24133333,"Private",0,0,4,0,1,0,"No","Yes","No","Yes","Yes","Yes","No","No",8,"Yumbe Hospital","Solar","Piped water","RDT","No","Yes",0,0,5,0
+"Yumbe HCIII","Yumbe",3.46874,31.2466,"Government",0,2,8,0,1,0,"Yes","Yes","No","Yes","Yes","Yes","No","No",6,"Yumbe Hosp","Solar","Bore hole","RDT","Yes","Yes",44,1,18,2
+"Yumbe Hospital","Yumbe",3.43985,31.18752,"Government",3,10,81,2,3,0,"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",0,"Yumbe Hosp","Thermal Generator","Piped water","LAMP & LED","Yes","Yes",94,9,41,13
+"Zoka HCII","Adjumani",3.14105,31.72474,"Government",0,0,1,0,0,0,"No","No","No","No","No","No","No","No",38,"Adjumani Hospital","Solar","Bore hole","RDT","Yes","No",9,0,0,0
